@@ -1,0 +1,36 @@
+body{
+    background-color:lightgreen;
+    font-family: cursive;
+    border: ridge greenyellow;
+    border-width: 20px;
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 0px 5px 5px greenyellow, 0px 10px 10px limegreen, 0px 15px 15px green;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: fantasy;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: green;
+    bottom: 0;
+    width: 100%;
+    background-color: lawngreen;
+    line-height: 3;
+    text-align: center;
+    font-family: monospace;
+}
+
+canvas{
+    border: ridge chartreuse;
+    border-radius: 20px;
+    box-shadow: 0px 5px 5px black,0px 10px 10px gray,0px 15px 15px whitesmoke,;
+}
